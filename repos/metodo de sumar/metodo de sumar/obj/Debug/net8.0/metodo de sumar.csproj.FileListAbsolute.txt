@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\metodo de sumar\metodo de sumar\bin\Debug\net8.0\metodo de sumar.exe
+C:\Users\Usuario\source\repos\metodo de sumar\metodo de sumar\bin\Debug\net8.0\metodo de sumar.deps.json
+C:\Users\Usuario\source\repos\metodo de sumar\metodo de sumar\bin\Debug\net8.0\metodo de sumar.runtimeconfig.json
+C:\Users\Usuario\source\repos\metodo de sumar\metodo de sumar\bin\Debug\net8.0\metodo de sumar.dll
+C:\Users\Usuario\source\repos\metodo de sumar\metodo de sumar\bin\Debug\net8.0\metodo de sumar.pdb
+C:\Users\Usuario\source\repos\metodo de sumar\metodo de sumar\obj\Debug\net8.0\metodo de sumar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\metodo de sumar\metodo de sumar\obj\Debug\net8.0\metodo de sumar.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\metodo de sumar\metodo de sumar\obj\Debug\net8.0\metodo de sumar.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\metodo de sumar\metodo de sumar\obj\Debug\net8.0\metodo de sumar.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\metodo de sumar\metodo de sumar\obj\Debug\net8.0\metodo de sumar.dll
+C:\Users\Usuario\source\repos\metodo de sumar\metodo de sumar\obj\Debug\net8.0\refint\metodo de sumar.dll
+C:\Users\Usuario\source\repos\metodo de sumar\metodo de sumar\obj\Debug\net8.0\metodo de sumar.pdb
+C:\Users\Usuario\source\repos\metodo de sumar\metodo de sumar\obj\Debug\net8.0\metodo de sumar.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\metodo de sumar\metodo de sumar\obj\Debug\net8.0\ref\metodo de sumar.dll

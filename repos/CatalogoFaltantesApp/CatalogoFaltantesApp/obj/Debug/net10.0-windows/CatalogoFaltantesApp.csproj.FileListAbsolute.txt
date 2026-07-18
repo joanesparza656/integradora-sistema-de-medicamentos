@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\CatalogoFaltantesApp\CatalogoFaltantesApp\bin\Debug\net10.0-windows\CatalogoFaltantesApp.exe
+C:\Users\Usuario\source\repos\CatalogoFaltantesApp\CatalogoFaltantesApp\bin\Debug\net10.0-windows\CatalogoFaltantesApp.deps.json
+C:\Users\Usuario\source\repos\CatalogoFaltantesApp\CatalogoFaltantesApp\bin\Debug\net10.0-windows\CatalogoFaltantesApp.runtimeconfig.json
+C:\Users\Usuario\source\repos\CatalogoFaltantesApp\CatalogoFaltantesApp\bin\Debug\net10.0-windows\CatalogoFaltantesApp.dll
+C:\Users\Usuario\source\repos\CatalogoFaltantesApp\CatalogoFaltantesApp\bin\Debug\net10.0-windows\CatalogoFaltantesApp.pdb
+C:\Users\Usuario\source\repos\CatalogoFaltantesApp\CatalogoFaltantesApp\obj\Debug\net10.0-windows\CatalogoFaltantesApp.Form1.resources
+C:\Users\Usuario\source\repos\CatalogoFaltantesApp\CatalogoFaltantesApp\obj\Debug\net10.0-windows\CatalogoFaltantesApp.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\CatalogoFaltantesApp\CatalogoFaltantesApp\obj\Debug\net10.0-windows\CatalogoFaltantesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\CatalogoFaltantesApp\CatalogoFaltantesApp\obj\Debug\net10.0-windows\CatalogoFaltantesApp.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\CatalogoFaltantesApp\CatalogoFaltantesApp\obj\Debug\net10.0-windows\CatalogoFaltantesApp.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\CatalogoFaltantesApp\CatalogoFaltantesApp\obj\Debug\net10.0-windows\CatalogoFaltantesApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\CatalogoFaltantesApp\CatalogoFaltantesApp\obj\Debug\net10.0-windows\CatalogoFaltantesApp.dll
+C:\Users\Usuario\source\repos\CatalogoFaltantesApp\CatalogoFaltantesApp\obj\Debug\net10.0-windows\refint\CatalogoFaltantesApp.dll
+C:\Users\Usuario\source\repos\CatalogoFaltantesApp\CatalogoFaltantesApp\obj\Debug\net10.0-windows\CatalogoFaltantesApp.pdb
+C:\Users\Usuario\source\repos\CatalogoFaltantesApp\CatalogoFaltantesApp\obj\Debug\net10.0-windows\CatalogoFaltantesApp.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\CatalogoFaltantesApp\CatalogoFaltantesApp\obj\Debug\net10.0-windows\ref\CatalogoFaltantesApp.dll

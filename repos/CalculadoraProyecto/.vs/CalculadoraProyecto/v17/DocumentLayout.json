@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\CalculadoraProyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\AppData\\Local\\Temp\\1acfe348-e8a0-41e8-847e-8f9549785650_AppEscuela.zip.650\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\source\\repos\\CalculadoraProyecto\\CalculadoraProyecto\\Operaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalculadoraProyecto\\Operaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Downloads\\HARPHONE_prototipo3_login_winforms\\HARPHONE prototipo3\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C71761-BE35-4D1B-A36C-2BAFC441A0BB}|CalculadoraProyecto\\CalculadoraProyecto.csproj|c:\\users\\usuario\\downloads\\calculadora.png||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\AppData\\Local\\Temp\\1acfe348-e8a0-41e8-847e-8f9549785650_AppEscuela.zip.650\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\1acfe348-e8a0-41e8-847e-8f9549785650_AppEscuela.zip.650\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\AppData\\Local\\Temp\\1acfe348-e8a0-41e8-847e-8f9549785650_AppEscuela.zip.650\\Form1.cs [Solo lectura]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\1acfe348-e8a0-41e8-847e-8f9549785650_AppEscuela.zip.650\\Form1.cs [Solo lectura]",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:23:34.625Z",
+              "EditorCaption": " [Solo lectura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\HARPHONE_prototipo3_login_winforms\\HARPHONE prototipo3\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\HARPHONE_prototipo3_login_winforms\\HARPHONE prototipo3\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\HARPHONE_prototipo3_login_winforms\\HARPHONE prototipo3\\Form1.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\HARPHONE_prototipo3_login_winforms\\HARPHONE prototipo3\\Form1.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:06:11.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Operaciones.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CalculadoraProyecto\\CalculadoraProyecto\\Operaciones.cs",
+              "RelativeDocumentMoniker": "CalculadoraProyecto\\Operaciones.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CalculadoraProyecto\\CalculadoraProyecto\\Operaciones.cs",
+              "RelativeToolTip": "CalculadoraProyecto\\Operaciones.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T01:56:58.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "calculadora.png",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\calculadora.png",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\calculadora.png",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\calculadora.png",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\calculadora.png",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-08-27T01:45:59.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

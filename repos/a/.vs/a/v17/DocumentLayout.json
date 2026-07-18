@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\a\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCEAE3C-4295-4A59-8B0A-19CD023969FE}|a\\a.csproj|c:\\users\\usuario\\source\\repos\\a\\a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCEAE3C-4295-4A59-8B0A-19CD023969FE}|a\\a.csproj|solutionrelative:a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCEAE3C-4295-4A59-8B0A-19CD023969FE}|a\\a.csproj|c:\\users\\usuario\\source\\repos\\a\\a\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCEAE3C-4295-4A59-8B0A-19CD023969FE}|a\\a.csproj|solutionrelative:a\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCEAE3C-4295-4A59-8B0A-19CD023969FE}|a\\a.csproj|c:\\users\\usuario\\source\\repos\\a\\a\\clientecontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCEAE3C-4295-4A59-8B0A-19CD023969FE}|a\\a.csproj|solutionrelative:a\\clientecontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCEAE3C-4295-4A59-8B0A-19CD023969FE}|a\\a.csproj|c:\\users\\usuario\\source\\repos\\a\\a\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCEAE3C-4295-4A59-8B0A-19CD023969FE}|a\\a.csproj|solutionrelative:a\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteControlador.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\a\\a\\ClienteControlador.cs",
+              "RelativeDocumentMoniker": "a\\ClienteControlador.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\a\\a\\ClienteControlador.cs",
+              "RelativeToolTip": "a\\ClienteControlador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T15:05:44.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\a\\a\\Conexion.cs",
+              "RelativeDocumentMoniker": "a\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\a\\a\\Conexion.cs",
+              "RelativeToolTip": "a\\Conexion.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T15:05:07.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\a\\a\\Cliente.cs",
+              "RelativeDocumentMoniker": "a\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\a\\a\\Cliente.cs",
+              "RelativeToolTip": "a\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T15:04:55.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\a\\a\\Program.cs",
+              "RelativeDocumentMoniker": "a\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\a\\a\\Program.cs",
+              "RelativeToolTip": "a\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T15:04:33.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

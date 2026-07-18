@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\ModificadoresAcceso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A22E4102-EA55-4E42-8C0C-FA0B78D2BE8A}|ModificadoresAcceso\\ModificadoresAcceso.csproj|c:\\users\\usuario\\source\\repos\\modificadoresacceso\\modificadoresacceso\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A22E4102-EA55-4E42-8C0C-FA0B78D2BE8A}|ModificadoresAcceso\\ModificadoresAcceso.csproj|solutionrelative:modificadoresacceso\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A22E4102-EA55-4E42-8C0C-FA0B78D2BE8A}|ModificadoresAcceso\\ModificadoresAcceso.csproj|c:\\users\\usuario\\source\\repos\\modificadoresacceso\\modificadoresacceso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A22E4102-EA55-4E42-8C0C-FA0B78D2BE8A}|ModificadoresAcceso\\ModificadoresAcceso.csproj|solutionrelative:modificadoresacceso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "persona.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ModificadoresAcceso\\ModificadoresAcceso\\persona.cs",
+              "RelativeDocumentMoniker": "ModificadoresAcceso\\persona.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ModificadoresAcceso\\ModificadoresAcceso\\persona.cs",
+              "RelativeToolTip": "ModificadoresAcceso\\persona.cs",
+              "ViewState": "AgIAAAgAAABAm9rUoh8/wBwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T16:06:19.941Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ModificadoresAcceso\\ModificadoresAcceso\\Program.cs",
+              "RelativeDocumentMoniker": "ModificadoresAcceso\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ModificadoresAcceso\\ModificadoresAcceso\\Program.cs",
+              "RelativeToolTip": "ModificadoresAcceso\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T16:05:38.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

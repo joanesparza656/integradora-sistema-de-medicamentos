@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\HerenSIas\HerenSIas\bin\Debug\net8.0\HerenSIas.exe
+C:\Users\Usuario\source\repos\HerenSIas\HerenSIas\bin\Debug\net8.0\HerenSIas.deps.json
+C:\Users\Usuario\source\repos\HerenSIas\HerenSIas\bin\Debug\net8.0\HerenSIas.runtimeconfig.json
+C:\Users\Usuario\source\repos\HerenSIas\HerenSIas\bin\Debug\net8.0\HerenSIas.dll
+C:\Users\Usuario\source\repos\HerenSIas\HerenSIas\bin\Debug\net8.0\HerenSIas.pdb
+C:\Users\Usuario\source\repos\HerenSIas\HerenSIas\obj\Debug\net8.0\HerenSIas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\HerenSIas\HerenSIas\obj\Debug\net8.0\HerenSIas.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\HerenSIas\HerenSIas\obj\Debug\net8.0\HerenSIas.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\HerenSIas\HerenSIas\obj\Debug\net8.0\HerenSIas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\HerenSIas\HerenSIas\obj\Debug\net8.0\HerenSIas.dll
+C:\Users\Usuario\source\repos\HerenSIas\HerenSIas\obj\Debug\net8.0\refint\HerenSIas.dll
+C:\Users\Usuario\source\repos\HerenSIas\HerenSIas\obj\Debug\net8.0\HerenSIas.pdb
+C:\Users\Usuario\source\repos\HerenSIas\HerenSIas\obj\Debug\net8.0\HerenSIas.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\HerenSIas\HerenSIas\obj\Debug\net8.0\ref\HerenSIas.dll

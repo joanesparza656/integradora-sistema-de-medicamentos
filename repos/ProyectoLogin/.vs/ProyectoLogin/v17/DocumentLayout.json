@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\ProyectoLogin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{457026BC-C018-488C-8EE5-61D75CB81412}|ProyectoLogin\\ProyectoLogin.csproj|c:\\users\\usuario\\downloads\\frmcatclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457026BC-C018-488C-8EE5-61D75CB81412}|ProyectoLogin\\ProyectoLogin.csproj|c:\\users\\usuario\\source\\repos\\proyectologin\\proyectologin\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457026BC-C018-488C-8EE5-61D75CB81412}|ProyectoLogin\\ProyectoLogin.csproj|solutionrelative:proyectologin\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457026BC-C018-488C-8EE5-61D75CB81412}|ProyectoLogin\\ProyectoLogin.csproj|c:\\users\\usuario\\downloads\\frmcatclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457026BC-C018-488C-8EE5-61D75CB81412}|ProyectoLogin\\ProyectoLogin.csproj|c:\\users\\usuario\\source\\repos\\proyectologin\\proyectologin\\conexionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457026BC-C018-488C-8EE5-61D75CB81412}|ProyectoLogin\\ProyectoLogin.csproj|solutionrelative:proyectologin\\conexionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ProyectoLogin||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457026BC-C018-488C-8EE5-61D75CB81412}|ProyectoLogin\\ProyectoLogin.csproj|C:\\Users\\Usuario\\source\\repos\\ProyectoLogin\\proyectologin\\mdiprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457026BC-C018-488C-8EE5-61D75CB81412}|ProyectoLogin\\ProyectoLogin.csproj|solutionrelative:proyectologin\\mdiprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457026BC-C018-488C-8EE5-61D75CB81412}|ProyectoLogin\\ProyectoLogin.csproj|c:\\users\\usuario\\source\\repos\\proyectologin\\proyectologin\\conexionform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457026BC-C018-488C-8EE5-61D75CB81412}|ProyectoLogin\\ProyectoLogin.csproj|solutionrelative:proyectologin\\conexionform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457026BC-C018-488C-8EE5-61D75CB81412}|ProyectoLogin\\ProyectoLogin.csproj|C:\\Users\\Usuario\\source\\repos\\ProyectoLogin\\proyectologin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457026BC-C018-488C-8EE5-61D75CB81412}|ProyectoLogin\\ProyectoLogin.csproj|solutionrelative:proyectologin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457026BC-C018-488C-8EE5-61D75CB81412}|ProyectoLogin\\ProyectoLogin.csproj|c:\\users\\usuario\\source\\repos\\proyectologin\\proyectologin\\mdiprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{457026BC-C018-488C-8EE5-61D75CB81412}|ProyectoLogin\\ProyectoLogin.csproj|solutionrelative:proyectologin\\mdiprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457026BC-C018-488C-8EE5-61D75CB81412}|ProyectoLogin\\ProyectoLogin.csproj|c:\\users\\usuario\\source\\repos\\proyectologin\\proyectologin\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoLogin\\ProyectoLogin\\Cliente.cs",
+              "RelativeDocumentMoniker": "ProyectoLogin\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoLogin\\ProyectoLogin\\Cliente.cs",
+              "RelativeToolTip": "ProyectoLogin\\Cliente.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T16:40:11.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmCatClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\FrmCatClientes.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\FrmCatClientes.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\FrmCatClientes.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\FrmCatClientes.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T03:14:28.114Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmCatClientes.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\FrmCatClientes.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\FrmCatClientes.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\FrmCatClientes.cs*",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\FrmCatClientes.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T03:24:10.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConexionForm.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoLogin\\ProyectoLogin\\ConexionForm.cs",
+              "RelativeDocumentMoniker": "ProyectoLogin\\ConexionForm.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoLogin\\ProyectoLogin\\ConexionForm.cs",
+              "RelativeToolTip": "ProyectoLogin\\ConexionForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T16:39:09.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProyectoLogin",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoLogin\\ProyectoLogin\\ProyectoLogin.csproj",
+              "RelativeDocumentMoniker": "ProyectoLogin\\ProyectoLogin.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoLogin\\ProyectoLogin\\ProyectoLogin.csproj",
+              "RelativeToolTip": "ProyectoLogin\\ProyectoLogin.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-27T17:11:56.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConexionForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoLogin\\ProyectoLogin\\ConexionForm.Designer.cs",
+              "RelativeDocumentMoniker": "ProyectoLogin\\ConexionForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoLogin\\ProyectoLogin\\ConexionForm.Designer.cs",
+              "RelativeToolTip": "ProyectoLogin\\ConexionForm.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T16:41:06.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MdiPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoLogin\\ProyectoLogin\\MdiPrincipal.cs",
+              "RelativeDocumentMoniker": "ProyectoLogin\\MdiPrincipal.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoLogin\\ProyectoLogin\\MdiPrincipal.cs",
+              "RelativeToolTip": "ProyectoLogin\\MdiPrincipal.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T03:01:33.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MdiPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoLogin\\ProyectoLogin\\MdiPrincipal.cs",
+              "RelativeDocumentMoniker": "ProyectoLogin\\MdiPrincipal.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoLogin\\ProyectoLogin\\MdiPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoLogin\\MdiPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:58:20.817Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoLogin\\ProyectoLogin\\Form1.cs",
+              "RelativeDocumentMoniker": "ProyectoLogin\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoLogin\\ProyectoLogin\\Form1.cs",
+              "RelativeToolTip": "ProyectoLogin\\Form1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:35:42.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

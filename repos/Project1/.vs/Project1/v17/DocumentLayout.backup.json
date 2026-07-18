@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8638D1-CB8A-4C7B-A416-9BF5D1E0499E}|Project1\\Project1.vcxproj|C:\\Users\\Usuario\\source\\repos\\Project1\\Project1\\Project1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED8638D1-CB8A-4C7B-A416-9BF5D1E0499E}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Project1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project1.cpp",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Project1\\Project1\\Project1.cpp",
+              "RelativeDocumentMoniker": "Project1\\Project1.cpp",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Project1\\Project1\\Project1.cpp",
+              "RelativeToolTip": "Project1\\Project1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-14T02:56:48.882Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

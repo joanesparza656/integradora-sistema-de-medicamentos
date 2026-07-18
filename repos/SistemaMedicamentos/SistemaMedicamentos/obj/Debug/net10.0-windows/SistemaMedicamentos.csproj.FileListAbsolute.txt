@@ -1,0 +1,17 @@
+C:\Users\Usuario\source\repos\SistemaMedicamentos\SistemaMedicamentos\bin\Debug\net10.0-windows\SistemaMedicamentos.exe
+C:\Users\Usuario\source\repos\SistemaMedicamentos\SistemaMedicamentos\bin\Debug\net10.0-windows\SistemaMedicamentos.deps.json
+C:\Users\Usuario\source\repos\SistemaMedicamentos\SistemaMedicamentos\bin\Debug\net10.0-windows\SistemaMedicamentos.runtimeconfig.json
+C:\Users\Usuario\source\repos\SistemaMedicamentos\SistemaMedicamentos\bin\Debug\net10.0-windows\SistemaMedicamentos.dll
+C:\Users\Usuario\source\repos\SistemaMedicamentos\SistemaMedicamentos\bin\Debug\net10.0-windows\SistemaMedicamentos.pdb
+C:\Users\Usuario\source\repos\SistemaMedicamentos\SistemaMedicamentos\obj\Debug\net10.0-windows\SistemaMedicamentos.Catalogo.resources
+C:\Users\Usuario\source\repos\SistemaMedicamentos\SistemaMedicamentos\obj\Debug\net10.0-windows\SistemaMedicamentos.Form1.resources
+C:\Users\Usuario\source\repos\SistemaMedicamentos\SistemaMedicamentos\obj\Debug\net10.0-windows\SistemaMedicamentos.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\SistemaMedicamentos\SistemaMedicamentos\obj\Debug\net10.0-windows\SistemaMedicamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\SistemaMedicamentos\SistemaMedicamentos\obj\Debug\net10.0-windows\SistemaMedicamentos.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\SistemaMedicamentos\SistemaMedicamentos\obj\Debug\net10.0-windows\SistemaMedicamentos.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\SistemaMedicamentos\SistemaMedicamentos\obj\Debug\net10.0-windows\SistemaMedicamentos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\SistemaMedicamentos\SistemaMedicamentos\obj\Debug\net10.0-windows\SistemaMedicamentos.dll
+C:\Users\Usuario\source\repos\SistemaMedicamentos\SistemaMedicamentos\obj\Debug\net10.0-windows\refint\SistemaMedicamentos.dll
+C:\Users\Usuario\source\repos\SistemaMedicamentos\SistemaMedicamentos\obj\Debug\net10.0-windows\SistemaMedicamentos.pdb
+C:\Users\Usuario\source\repos\SistemaMedicamentos\SistemaMedicamentos\obj\Debug\net10.0-windows\SistemaMedicamentos.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\SistemaMedicamentos\SistemaMedicamentos\obj\Debug\net10.0-windows\ref\SistemaMedicamentos.dll

@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\ModificadoresAcceso\ModificadoresAcceso\bin\Debug\net8.0\ModificadoresAcceso.exe
+C:\Users\Usuario\source\repos\ModificadoresAcceso\ModificadoresAcceso\bin\Debug\net8.0\ModificadoresAcceso.deps.json
+C:\Users\Usuario\source\repos\ModificadoresAcceso\ModificadoresAcceso\bin\Debug\net8.0\ModificadoresAcceso.runtimeconfig.json
+C:\Users\Usuario\source\repos\ModificadoresAcceso\ModificadoresAcceso\bin\Debug\net8.0\ModificadoresAcceso.dll
+C:\Users\Usuario\source\repos\ModificadoresAcceso\ModificadoresAcceso\bin\Debug\net8.0\ModificadoresAcceso.pdb
+C:\Users\Usuario\source\repos\ModificadoresAcceso\ModificadoresAcceso\obj\Debug\net8.0\ModificadoresAcceso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\ModificadoresAcceso\ModificadoresAcceso\obj\Debug\net8.0\ModificadoresAcceso.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ModificadoresAcceso\ModificadoresAcceso\obj\Debug\net8.0\ModificadoresAcceso.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ModificadoresAcceso\ModificadoresAcceso\obj\Debug\net8.0\ModificadoresAcceso.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ModificadoresAcceso\ModificadoresAcceso\obj\Debug\net8.0\ModificadoresAcceso.dll
+C:\Users\Usuario\source\repos\ModificadoresAcceso\ModificadoresAcceso\obj\Debug\net8.0\refint\ModificadoresAcceso.dll
+C:\Users\Usuario\source\repos\ModificadoresAcceso\ModificadoresAcceso\obj\Debug\net8.0\ModificadoresAcceso.pdb
+C:\Users\Usuario\source\repos\ModificadoresAcceso\ModificadoresAcceso\obj\Debug\net8.0\ModificadoresAcceso.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\ModificadoresAcceso\ModificadoresAcceso\obj\Debug\net8.0\ref\ModificadoresAcceso.dll

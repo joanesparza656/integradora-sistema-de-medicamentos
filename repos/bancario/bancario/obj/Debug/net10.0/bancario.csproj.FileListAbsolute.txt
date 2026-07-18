@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\bancario\bancario\bin\Debug\net10.0\bancario.exe
+C:\Users\Usuario\source\repos\bancario\bancario\bin\Debug\net10.0\bancario.deps.json
+C:\Users\Usuario\source\repos\bancario\bancario\bin\Debug\net10.0\bancario.runtimeconfig.json
+C:\Users\Usuario\source\repos\bancario\bancario\bin\Debug\net10.0\bancario.dll
+C:\Users\Usuario\source\repos\bancario\bancario\bin\Debug\net10.0\bancario.pdb
+C:\Users\Usuario\source\repos\bancario\bancario\obj\Debug\net10.0\bancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\bancario\bancario\obj\Debug\net10.0\bancario.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\bancario\bancario\obj\Debug\net10.0\bancario.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\bancario\bancario\obj\Debug\net10.0\bancario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\bancario\bancario\obj\Debug\net10.0\bancario.dll
+C:\Users\Usuario\source\repos\bancario\bancario\obj\Debug\net10.0\refint\bancario.dll
+C:\Users\Usuario\source\repos\bancario\bancario\obj\Debug\net10.0\bancario.pdb
+C:\Users\Usuario\source\repos\bancario\bancario\obj\Debug\net10.0\bancario.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\bancario\bancario\obj\Debug\net10.0\ref\bancario.dll

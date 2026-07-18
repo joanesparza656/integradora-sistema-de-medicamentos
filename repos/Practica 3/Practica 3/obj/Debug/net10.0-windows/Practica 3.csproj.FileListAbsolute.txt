@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Practica 3\Practica 3\obj\Debug\net10.0-windows\Practica 3.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Practica 3\Practica 3\obj\Debug\net10.0-windows\Practica_3.Form1.resources
+C:\Users\Usuario\source\repos\Practica 3\Practica 3\obj\Debug\net10.0-windows\Practica 3.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Practica 3\Practica 3\obj\Debug\net10.0-windows\Practica 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Practica 3\Practica 3\obj\Debug\net10.0-windows\Practica 3.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Practica 3\Practica 3\obj\Debug\net10.0-windows\Practica 3.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Practica 3\Practica 3\obj\Debug\net10.0-windows\Practica 3.csproj.CoreCompileInputs.cache

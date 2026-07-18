@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\CatalogoFaltantesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18EA3614-E237-4AC5-8754-D92499033347}|CatalogoFaltantesApp\\CatalogoFaltantesApp.csproj|c:\\users\\usuario\\source\\repos\\catalogofaltantesapp\\catalogofaltantesapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EA3614-E237-4AC5-8754-D92499033347}|CatalogoFaltantesApp\\CatalogoFaltantesApp.csproj|solutionrelative:catalogofaltantesapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EA3614-E237-4AC5-8754-D92499033347}|CatalogoFaltantesApp\\CatalogoFaltantesApp.csproj|c:\\users\\usuario\\source\\repos\\catalogofaltantesapp\\catalogofaltantesapp\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EA3614-E237-4AC5-8754-D92499033347}|CatalogoFaltantesApp\\CatalogoFaltantesApp.csproj|solutionrelative:catalogofaltantesapp\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EA3614-E237-4AC5-8754-D92499033347}|CatalogoFaltantesApp\\CatalogoFaltantesApp.csproj|c:\\users\\usuario\\source\\repos\\catalogofaltantesapp\\catalogofaltantesapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18EA3614-E237-4AC5-8754-D92499033347}|CatalogoFaltantesApp\\CatalogoFaltantesApp.csproj|solutionrelative:catalogofaltantesapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EA3614-E237-4AC5-8754-D92499033347}|CatalogoFaltantesApp\\CatalogoFaltantesApp.csproj|c:\\users\\usuario\\source\\repos\\catalogofaltantesapp\\catalogofaltantesapp\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18EA3614-E237-4AC5-8754-D92499033347}|CatalogoFaltantesApp\\CatalogoFaltantesApp.csproj|solutionrelative:catalogofaltantesapp\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EA3614-E237-4AC5-8754-D92499033347}|CatalogoFaltantesApp\\CatalogoFaltantesApp.csproj|c:\\users\\usuario\\source\\repos\\catalogofaltantesapp\\catalogofaltantesapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EA3614-E237-4AC5-8754-D92499033347}|CatalogoFaltantesApp\\CatalogoFaltantesApp.csproj|solutionrelative:catalogofaltantesapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CatalogoFaltantesApp\\CatalogoFaltantesApp\\Form1.cs",
+              "RelativeDocumentMoniker": "CatalogoFaltantesApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CatalogoFaltantesApp\\CatalogoFaltantesApp\\Form1.cs",
+              "RelativeToolTip": "CatalogoFaltantesApp\\Form1.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T16:28:02.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CatalogoFaltantesApp\\CatalogoFaltantesApp\\FormLogin.cs",
+              "RelativeDocumentMoniker": "CatalogoFaltantesApp\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CatalogoFaltantesApp\\CatalogoFaltantesApp\\FormLogin.cs*",
+              "RelativeToolTip": "CatalogoFaltantesApp\\FormLogin.cs*",
+              "ViewState": "AgIAAC4AAAAAAAAAAIAwwDcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T16:21:10.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CatalogoFaltantesApp\\CatalogoFaltantesApp\\FormLogin.cs",
+              "RelativeDocumentMoniker": "CatalogoFaltantesApp\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CatalogoFaltantesApp\\CatalogoFaltantesApp\\FormLogin.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "CatalogoFaltantesApp\\FormLogin.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T16:19:21.224Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CatalogoFaltantesApp\\CatalogoFaltantesApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CatalogoFaltantesApp\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CatalogoFaltantesApp\\CatalogoFaltantesApp\\Form1.Designer.cs",
+              "RelativeToolTip": "CatalogoFaltantesApp\\Form1.Designer.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T16:17:04.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CatalogoFaltantesApp\\CatalogoFaltantesApp\\Form1.cs",
+              "RelativeDocumentMoniker": "CatalogoFaltantesApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CatalogoFaltantesApp\\CatalogoFaltantesApp\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CatalogoFaltantesApp\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T16:15:00.678Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

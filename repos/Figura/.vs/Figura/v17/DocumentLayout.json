@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\Figura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF215D1-6003-4047-B0E6-66C7D2FDDE92}|Figura\\Figura.csproj|c:\\users\\usuario\\source\\repos\\figura\\figura\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF215D1-6003-4047-B0E6-66C7D2FDDE92}|Figura\\Figura.csproj|solutionrelative:figura\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF215D1-6003-4047-B0E6-66C7D2FDDE92}|Figura\\Figura.csproj|c:\\users\\usuario\\source\\repos\\figura\\figura\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF215D1-6003-4047-B0E6-66C7D2FDDE92}|Figura\\Figura.csproj|solutionrelative:figura\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF215D1-6003-4047-B0E6-66C7D2FDDE92}|Figura\\Figura.csproj|c:\\users\\usuario\\source\\repos\\figura\\figura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF215D1-6003-4047-B0E6-66C7D2FDDE92}|Figura\\Figura.csproj|solutionrelative:figura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF215D1-6003-4047-B0E6-66C7D2FDDE92}|Figura\\Figura.csproj|c:\\users\\usuario\\source\\repos\\figura\\figura\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF215D1-6003-4047-B0E6-66C7D2FDDE92}|Figura\\Figura.csproj|solutionrelative:figura\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Figura.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Figura\\Figura\\Figura.cs",
+              "RelativeDocumentMoniker": "Figura\\Figura.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Figura\\Figura\\Figura.cs",
+              "RelativeToolTip": "Figura\\Figura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T16:46:15.09Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CIrculo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Figura\\Figura\\CIrculo.cs",
+              "RelativeDocumentMoniker": "Figura\\CIrculo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Figura\\Figura\\CIrculo.cs",
+              "RelativeToolTip": "Figura\\CIrculo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T16:48:33.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cuadrado.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Figura\\Figura\\Cuadrado.cs",
+              "RelativeDocumentMoniker": "Figura\\Cuadrado.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Figura\\Figura\\Cuadrado.cs",
+              "RelativeToolTip": "Figura\\Cuadrado.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwBwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T16:21:28.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Figura\\Figura\\Program.cs",
+              "RelativeDocumentMoniker": "Figura\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Figura\\Figura\\Program.cs",
+              "RelativeToolTip": "Figura\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T16:20:09.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

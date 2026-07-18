@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\HerenciaFIsiologica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11635D07-3DC8-4D69-B82D-4B2FF398E1C5}|HerenciaFIsiologica\\HerenciaFIsiologica.csproj|c:\\users\\usuario\\source\\repos\\herenciafisiologica\\herenciafisiologica\\hijo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11635D07-3DC8-4D69-B82D-4B2FF398E1C5}|HerenciaFIsiologica\\HerenciaFIsiologica.csproj|solutionrelative:herenciafisiologica\\hijo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11635D07-3DC8-4D69-B82D-4B2FF398E1C5}|HerenciaFIsiologica\\HerenciaFIsiologica.csproj|c:\\users\\usuario\\source\\repos\\herenciafisiologica\\herenciafisiologica\\padre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11635D07-3DC8-4D69-B82D-4B2FF398E1C5}|HerenciaFIsiologica\\HerenciaFIsiologica.csproj|solutionrelative:herenciafisiologica\\padre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11635D07-3DC8-4D69-B82D-4B2FF398E1C5}|HerenciaFIsiologica\\HerenciaFIsiologica.csproj|c:\\users\\usuario\\source\\repos\\herenciafisiologica\\herenciafisiologica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11635D07-3DC8-4D69-B82D-4B2FF398E1C5}|HerenciaFIsiologica\\HerenciaFIsiologica.csproj|solutionrelative:herenciafisiologica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hijo1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\HerenciaFIsiologica\\HerenciaFIsiologica\\Hijo1.cs",
+              "RelativeDocumentMoniker": "HerenciaFIsiologica\\Hijo1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\HerenciaFIsiologica\\HerenciaFIsiologica\\Hijo1.cs",
+              "RelativeToolTip": "HerenciaFIsiologica\\Hijo1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T15:40:55.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Padre.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\HerenciaFIsiologica\\HerenciaFIsiologica\\Padre.cs",
+              "RelativeDocumentMoniker": "HerenciaFIsiologica\\Padre.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\HerenciaFIsiologica\\HerenciaFIsiologica\\Padre.cs",
+              "RelativeToolTip": "HerenciaFIsiologica\\Padre.cs",
+              "ViewState": "AgIAAAYAAADAM54hvUYXwAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T03:34:08.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\HerenciaFIsiologica\\HerenciaFIsiologica\\Program.cs",
+              "RelativeDocumentMoniker": "HerenciaFIsiologica\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\HerenciaFIsiologica\\HerenciaFIsiologica\\Program.cs",
+              "RelativeToolTip": "HerenciaFIsiologica\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T03:33:19.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\SistemaMedicamentos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C62465DF-0A37-F898-02D1-700E4AF0BB0C}|SistemaMedicamentos\\SistemaMedicamentos.csproj|c:\\users\\usuario\\source\\repos\\sistemamedicamentos\\sistemamedicamentos\\sistemamedicamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62465DF-0A37-F898-02D1-700E4AF0BB0C}|SistemaMedicamentos\\SistemaMedicamentos.csproj|solutionrelative:sistemamedicamentos\\sistemamedicamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62465DF-0A37-F898-02D1-700E4AF0BB0C}|SistemaMedicamentos\\SistemaMedicamentos.csproj|c:\\users\\usuario\\source\\repos\\sistemamedicamentos\\sistemamedicamentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62465DF-0A37-F898-02D1-700E4AF0BB0C}|SistemaMedicamentos\\SistemaMedicamentos.csproj|solutionrelative:sistemamedicamentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62465DF-0A37-F898-02D1-700E4AF0BB0C}|SistemaMedicamentos\\SistemaMedicamentos.csproj|c:\\users\\usuario\\source\\repos\\sistemamedicamentos\\sistemamedicamentos\\medicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62465DF-0A37-F898-02D1-700E4AF0BB0C}|SistemaMedicamentos\\SistemaMedicamentos.csproj|solutionrelative:sistemamedicamentos\\medicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62465DF-0A37-F898-02D1-700E4AF0BB0C}|SistemaMedicamentos\\SistemaMedicamentos.csproj|c:\\users\\usuario\\source\\repos\\sistemamedicamentos\\sistemamedicamentos\\catalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62465DF-0A37-F898-02D1-700E4AF0BB0C}|SistemaMedicamentos\\SistemaMedicamentos.csproj|solutionrelative:sistemamedicamentos\\catalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SistemaMedicamentos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\SistemaMedicamentos\\SistemaMedicamentos\\SistemaMedicamentos.cs",
+              "RelativeDocumentMoniker": "SistemaMedicamentos\\SistemaMedicamentos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\SistemaMedicamentos\\SistemaMedicamentos\\SistemaMedicamentos.cs",
+              "RelativeToolTip": "SistemaMedicamentos\\SistemaMedicamentos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T17:37:04.607Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\SistemaMedicamentos\\SistemaMedicamentos\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaMedicamentos\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\SistemaMedicamentos\\SistemaMedicamentos\\Program.cs",
+              "RelativeToolTip": "SistemaMedicamentos\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T18:34:50.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Medicamento.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\SistemaMedicamentos\\SistemaMedicamentos\\Medicamento.cs",
+              "RelativeDocumentMoniker": "SistemaMedicamentos\\Medicamento.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\SistemaMedicamentos\\SistemaMedicamentos\\Medicamento.cs",
+              "RelativeToolTip": "SistemaMedicamentos\\Medicamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T17:37:55.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Catalogo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\SistemaMedicamentos\\SistemaMedicamentos\\Catalogo.cs",
+              "RelativeDocumentMoniker": "SistemaMedicamentos\\Catalogo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\SistemaMedicamentos\\SistemaMedicamentos\\Catalogo.cs",
+              "RelativeToolTip": "SistemaMedicamentos\\Catalogo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T18:00:29.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

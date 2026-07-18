@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\ProyectoLogin\ProyectoLogin\obj\Debug\ProyectoLogin.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ProyectoLogin\ProyectoLogin\obj\Debug\ProyectoLogin.Form1.resources
+C:\Users\Usuario\source\repos\ProyectoLogin\ProyectoLogin\obj\Debug\ProyectoLogin.Properties.Resources.resources
+C:\Users\Usuario\source\repos\ProyectoLogin\ProyectoLogin\obj\Debug\ProyectoLogin.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\ProyectoLogin\ProyectoLogin\obj\Debug\ProyectoLogin.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ProyectoLogin\ProyectoLogin\bin\Debug\ProyectoLogin.exe.config
+C:\Users\Usuario\source\repos\ProyectoLogin\ProyectoLogin\bin\Debug\ProyectoLogin.exe
+C:\Users\Usuario\source\repos\ProyectoLogin\ProyectoLogin\bin\Debug\ProyectoLogin.pdb
+C:\Users\Usuario\source\repos\ProyectoLogin\ProyectoLogin\obj\Debug\ProyectoLogin.exe
+C:\Users\Usuario\source\repos\ProyectoLogin\ProyectoLogin\obj\Debug\ProyectoLogin.pdb
+C:\Users\Usuario\source\repos\ProyectoLogin\ProyectoLogin\obj\Debug\ProyectoLogin.exe.config
+C:\Users\Usuario\source\repos\ProyectoLogin\ProyectoLogin\obj\Debug\ProyectoLogin.MdiPrincipal.resources
+C:\Users\Usuario\source\repos\ProyectoLogin\ProyectoLogin\obj\Debug\ProyectoLogin.FrmCatClientes.resources

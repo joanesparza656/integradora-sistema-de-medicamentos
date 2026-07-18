@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\CalculadoraProyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C71761-BE35-4D1B-A36C-2BAFC441A0BB}|CalculadoraProyecto\\CalculadoraProyecto.csproj|C:\\Users\\Usuario\\source\\repos\\CalculadoraProyecto\\calculadoraproyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C71761-BE35-4D1B-A36C-2BAFC441A0BB}|CalculadoraProyecto\\CalculadoraProyecto.csproj|solutionrelative:calculadoraproyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\source\\repos\\CalculadoraProyecto\\CalculadoraProyecto\\Operaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalculadoraProyecto\\Operaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C71761-BE35-4D1B-A36C-2BAFC441A0BB}|CalculadoraProyecto\\CalculadoraProyecto.csproj|C:\\Users\\Usuario\\source\\repos\\CalculadoraProyecto\\calculadoraproyecto\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C71761-BE35-4D1B-A36C-2BAFC441A0BB}|CalculadoraProyecto\\CalculadoraProyecto.csproj|solutionrelative:calculadoraproyecto\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C71761-BE35-4D1B-A36C-2BAFC441A0BB}|CalculadoraProyecto\\CalculadoraProyecto.csproj|c:\\users\\usuario\\source\\repos\\calculadoraproyecto\\calculadoraproyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8C71761-BE35-4D1B-A36C-2BAFC441A0BB}|CalculadoraProyecto\\CalculadoraProyecto.csproj|solutionrelative:calculadoraproyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Operaciones.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CalculadoraProyecto\\CalculadoraProyecto\\Operaciones.cs",
+              "RelativeDocumentMoniker": "CalculadoraProyecto\\Operaciones.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CalculadoraProyecto\\CalculadoraProyecto\\Operaciones.cs",
+              "RelativeToolTip": "CalculadoraProyecto\\Operaciones.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T01:56:58.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CalculadoraProyecto\\CalculadoraProyecto\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CalculadoraProyecto\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CalculadoraProyecto\\CalculadoraProyecto\\Form1.Designer.cs",
+              "RelativeToolTip": "CalculadoraProyecto\\Form1.Designer.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T01:50:28.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CalculadoraProyecto\\CalculadoraProyecto\\Form1.cs",
+              "RelativeDocumentMoniker": "CalculadoraProyecto\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CalculadoraProyecto\\CalculadoraProyecto\\Form1.cs",
+              "RelativeToolTip": "CalculadoraProyecto\\Form1.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA7wCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T01:45:59.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CalculadoraProyecto\\CalculadoraProyecto\\Form1.cs",
+              "RelativeDocumentMoniker": "CalculadoraProyecto\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CalculadoraProyecto\\CalculadoraProyecto\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CalculadoraProyecto\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T15:55:31.128Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

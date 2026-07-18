@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\persona\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7B26D6-16E3-4CAA-9D58-A40DFF9CB7C7}|persona\\persona.csproj|c:\\users\\usuario\\source\\repos\\persona\\persona\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7B26D6-16E3-4CAA-9D58-A40DFF9CB7C7}|persona\\persona.csproj|solutionrelative:persona\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7B26D6-16E3-4CAA-9D58-A40DFF9CB7C7}|persona\\persona.csproj|c:\\users\\usuario\\source\\repos\\persona\\persona\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7B26D6-16E3-4CAA-9D58-A40DFF9CB7C7}|persona\\persona.csproj|solutionrelative:persona\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "persona.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\persona\\persona\\persona.cs",
+              "RelativeDocumentMoniker": "persona\\persona.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\persona\\persona\\persona.cs*",
+              "RelativeToolTip": "persona\\persona.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T17:19:46.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\persona\\persona\\Program.cs",
+              "RelativeDocumentMoniker": "persona\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\persona\\persona\\Program.cs*",
+              "RelativeToolTip": "persona\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T17:18:11.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

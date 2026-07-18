@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\Login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|c:\\users\\usuario\\source\\repos\\login\\login\\catologos de medicamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|solutionrelative:login\\catologos de medicamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|c:\\users\\usuario\\source\\repos\\login\\login\\catologos de medicamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|solutionrelative:login\\catologos de medicamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|c:\\users\\usuario\\source\\repos\\login\\login\\medicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|solutionrelative:login\\medicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|c:\\users\\usuario\\source\\repos\\login\\login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|solutionrelative:login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|c:\\users\\usuario\\source\\repos\\login\\login\\catologos de medicamentos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|solutionrelative:login\\catologos de medicamentos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|c:\\users\\usuario\\source\\repos\\login\\login\\catalogomedicamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|solutionrelative:login\\catalogomedicamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|c:\\users\\usuario\\source\\repos\\login\\login\\catologos de medicamentos.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|solutionrelative:login\\catologos de medicamentos.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|c:\\users\\usuario\\source\\repos\\login\\login\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|solutionrelative:login\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|C:\\Users\\Usuario\\source\\repos\\Login\\login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|solutionrelative:login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6898CA4D-DFDC-45E3-9FD7-85156E427123}|Login\\Login.csproj|C:\\Users\\Usuario\\source\\repos\\Login\\login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6898CA4D-DFDC-45E3-9FD7-85156E427123}|Login\\Login.csproj|solutionrelative:login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|c:\\users\\usuario\\source\\repos\\login\\login\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|solutionrelative:login\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6898CA4D-DFDC-45E3-9FD7-85156E427123}|Login\\Login.csproj|C:\\Users\\Usuario\\source\\repos\\Login\\login\\catologos de medicamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6898CA4D-DFDC-45E3-9FD7-85156E427123}|Login\\Login.csproj|solutionrelative:login\\catologos de medicamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Login\\Login\\Form1.cs",
+              "RelativeDocumentMoniker": "Login\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Login\\Login\\Form1.cs*",
+              "RelativeToolTip": "Login\\Form1.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAtwEcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T16:45:37.62Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Medicamento.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Login\\Login\\Medicamento.cs",
+              "RelativeDocumentMoniker": "Login\\Medicamento.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Login\\Login\\Medicamento.cs",
+              "RelativeToolTip": "Login\\Medicamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T17:16:11.996Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Catologos de medicamentos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Login\\Login\\Catologos de medicamentos.cs",
+              "RelativeDocumentMoniker": "Login\\Catologos de medicamentos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Login\\Login\\Catologos de medicamentos.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Login\\Catologos de medicamentos.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T17:12:59.704Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Catologos de medicamentos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Login\\Login\\Catologos de medicamentos.cs",
+              "RelativeDocumentMoniker": "Login\\Catologos de medicamentos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Login\\Login\\Catologos de medicamentos.cs*",
+              "RelativeToolTip": "Login\\Catologos de medicamentos.cs*",
+              "ViewState": "AgIAAEkAAAAAvrj6QUcvwF4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T17:18:06.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CatalogoMedicamentos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Login\\Login\\CatalogoMedicamentos.cs",
+              "RelativeDocumentMoniker": "Login\\CatalogoMedicamentos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Login\\Login\\CatalogoMedicamentos.cs",
+              "RelativeToolTip": "Login\\CatalogoMedicamentos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T17:20:37.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Catologos de medicamentos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Login\\Login\\Catologos de medicamentos.Designer.cs",
+              "RelativeDocumentMoniker": "Login\\Catologos de medicamentos.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Login\\Login\\Catologos de medicamentos.Designer.cs",
+              "RelativeToolTip": "Login\\Catologos de medicamentos.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T17:40:21.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Catologos de medicamentos.resx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Login\\Login\\Catologos de medicamentos.resx",
+              "RelativeDocumentMoniker": "Login\\Catologos de medicamentos.resx",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Login\\Login\\Catologos de medicamentos.resx",
+              "RelativeToolTip": "Login\\Catologos de medicamentos.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-06-23T17:40:23.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Login\\Login\\Form1.resx",
+              "RelativeDocumentMoniker": "Login\\Form1.resx",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Login\\Login\\Form1.resx",
+              "RelativeToolTip": "Login\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-06-23T17:34:31.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Login\\Login\\Form1.cs",
+              "RelativeDocumentMoniker": "Login\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Login\\Login\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Login\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T18:00:25.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Login\\Login\\Form1.cs",
+              "RelativeDocumentMoniker": "Login\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Login\\Login\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Login\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T16:42:49.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Login\\Login\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Login\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Login\\Login\\Form1.Designer.cs",
+              "RelativeToolTip": "Login\\Form1.Designer.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAD4vyQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T17:34:54.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Catologos de medicamentos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Login\\Login\\Catologos de medicamentos.cs",
+              "RelativeDocumentMoniker": "Login\\Catologos de medicamentos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Login\\Login\\Catologos de medicamentos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Login\\Catologos de medicamentos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T16:56:18.121Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\ejemplo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27901E99-A91C-4E69-A475-4FF3EB7175E0}|ejemplo\\ejemplo.csproj|c:\\users\\usuario\\source\\repos\\ejemplo\\ejemplo\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27901E99-A91C-4E69-A475-4FF3EB7175E0}|ejemplo\\ejemplo.csproj|solutionrelative:ejemplo\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27901E99-A91C-4E69-A475-4FF3EB7175E0}|ejemplo\\ejemplo.csproj|c:\\users\\usuario\\source\\repos\\ejemplo\\ejemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27901E99-A91C-4E69-A475-4FF3EB7175E0}|ejemplo\\ejemplo.csproj|solutionrelative:ejemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ejemplo\\ejemplo\\empleado.cs",
+              "RelativeDocumentMoniker": "ejemplo\\empleado.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ejemplo\\ejemplo\\empleado.cs",
+              "RelativeToolTip": "ejemplo\\empleado.cs",
+              "ViewState": "AgIAAAgAAACgmMMcigo/wBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:32:27.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ejemplo\\ejemplo\\Program.cs",
+              "RelativeDocumentMoniker": "ejemplo\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ejemplo\\ejemplo\\Program.cs",
+              "RelativeToolTip": "ejemplo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:31:57.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\Harphone\Harphone\obj\Debug\Harphone.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Harphone\Harphone\obj\Debug\Harphone.Form1.resources
+C:\Users\Usuario\source\repos\Harphone\Harphone\obj\Debug\Harphone.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Harphone\Harphone\obj\Debug\Harphone.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Harphone\Harphone\obj\Debug\Harphone.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Harphone\Harphone\bin\Debug\Harphone.exe.config
+C:\Users\Usuario\source\repos\Harphone\Harphone\bin\Debug\Harphone.exe
+C:\Users\Usuario\source\repos\Harphone\Harphone\bin\Debug\Harphone.pdb
+C:\Users\Usuario\source\repos\Harphone\Harphone\obj\Debug\Harphone.exe
+C:\Users\Usuario\source\repos\Harphone\Harphone\obj\Debug\Harphone.pdb
+C:\Users\Usuario\source\repos\Harphone\Harphone\obj\Debug\Harphone.exe.config

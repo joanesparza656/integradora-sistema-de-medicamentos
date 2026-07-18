@@ -1,0 +1,5 @@
+C:\Users\Usuario\source\repos\CalculadoraProyecto\CalculadoraProyecto\obj\Debug\CalculadoraProyecto.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\CalculadoraProyecto\CalculadoraProyecto\obj\Debug\CalculadoraProyecto.FrmCalculadora.resources
+C:\Users\Usuario\source\repos\CalculadoraProyecto\CalculadoraProyecto\obj\Debug\CalculadoraProyecto.Properties.Resources.resources
+C:\Users\Usuario\source\repos\CalculadoraProyecto\CalculadoraProyecto\obj\Debug\CalculadoraProyecto.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\CalculadoraProyecto\CalculadoraProyecto\obj\Debug\CalculadoraProyecto.csproj.CoreCompileInputs.cache

@@ -1,0 +1,76 @@
+﻿using System;
+using System.Windows.Forms;
+
+namespace CalculadoraWinForms
+{
+    public partial class Form1 : Form
+    {
+        private double _current = 0;
+        private string _operator = "";
+        private bool _isNewEntry = true;
+
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void OnNumberClick(object sender, EventArgs e)
+        {
+            var btn = sender as Button;
+            if (btn == null) return;
+            if (_isNewEntry)
+            {
+                txtDisplay.Text = btn.Text == "," ? "0," : btn.Text;
+                _isNewEntry = false;
+            }
+            else
+            {
+                if (btn.Text == "," && txtDisplay.Text.Contains(",")) return;
+                txtDisplay.Text += btn.Text;
+            }
+        }
+
+        private void OnOperatorClick(object sender, EventArgs e)
+        {
+            var btn = sender as Button;
+            if (btn == null) return;
+            if (!_isNewEntry)
+            {
+                Calculate();
+                _isNewEntry = true;
+            }
+            _operator = btn.Text;
+            _current = double.TryParse(txtDisplay.Text, out var v) ? v : 0;
+        }
+
+        private void Calculate()
+        {
+            var second = double.TryParse(txtDisplay.Text, out var v) ? v : 0;
+            double result = _operator switch
+            {
+                "+" => _current + second,
+                "-" => _current - second,
+                "×" => _current * second,
+                "÷" => second == 0 ? double.NaN : _current / second,
+                _ => second
+            };
+            txtDisplay.Text = double.IsNaN(result) ? "Error" : result.ToString();
+            _current = result;
+        }
+
+n        private void btnEquals_Click(object sender, EventArgs e)
+        {
+            Calculate();
+            _operator = "";
+            _isNewEntry = true;
+        }
+
+n        private void btnClear_Click(object sender, EventArgs e)
+        {
+            txtDisplay.Text = "0";
+            _current = 0;
+            _operator = "";
+            _isNewEntry = true;
+        }
+    }
+}

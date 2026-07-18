@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\HerenciaFIsiologica\HerenciaFIsiologica\obj\Debug\net8.0\HerenciaFIsiologica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\HerenciaFIsiologica\HerenciaFIsiologica\obj\Debug\net8.0\HerenciaFIsiologica.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\HerenciaFIsiologica\HerenciaFIsiologica\obj\Debug\net8.0\HerenciaFIsiologica.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\HerenciaFIsiologica\HerenciaFIsiologica\obj\Debug\net8.0\HerenciaFIsiologica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\HerenciaFIsiologica\HerenciaFIsiologica\bin\Debug\net8.0\HerenciaFIsiologica.exe
+C:\Users\Usuario\source\repos\HerenciaFIsiologica\HerenciaFIsiologica\bin\Debug\net8.0\HerenciaFIsiologica.deps.json
+C:\Users\Usuario\source\repos\HerenciaFIsiologica\HerenciaFIsiologica\bin\Debug\net8.0\HerenciaFIsiologica.runtimeconfig.json
+C:\Users\Usuario\source\repos\HerenciaFIsiologica\HerenciaFIsiologica\bin\Debug\net8.0\HerenciaFIsiologica.dll
+C:\Users\Usuario\source\repos\HerenciaFIsiologica\HerenciaFIsiologica\bin\Debug\net8.0\HerenciaFIsiologica.pdb
+C:\Users\Usuario\source\repos\HerenciaFIsiologica\HerenciaFIsiologica\obj\Debug\net8.0\HerenciaFIsiologica.dll
+C:\Users\Usuario\source\repos\HerenciaFIsiologica\HerenciaFIsiologica\obj\Debug\net8.0\refint\HerenciaFIsiologica.dll
+C:\Users\Usuario\source\repos\HerenciaFIsiologica\HerenciaFIsiologica\obj\Debug\net8.0\HerenciaFIsiologica.pdb
+C:\Users\Usuario\source\repos\HerenciaFIsiologica\HerenciaFIsiologica\obj\Debug\net8.0\HerenciaFIsiologica.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\HerenciaFIsiologica\HerenciaFIsiologica\obj\Debug\net8.0\ref\HerenciaFIsiologica.dll

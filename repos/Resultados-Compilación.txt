@@ -1,0 +1,9 @@
+﻿Compilación iniciada a las 09:53 a. m....
+1>------ Operación Compilar iniciada: Proyecto: ConsoleApp10, configuración: Debug Any CPU ------
+1>Omitiendo analizadores para acelerar la compilación. Puede ejecutar los comandos "Build" o "Rebuild" para ejecutar los analizadores.
+1>C:\Users\Usuario\source\repos\ConsoleApp10\ConsoleApp10\producto.cs(10,20,10,28): warning CS8981: El nombre de tipo 'producto' solo contiene caracteres ASCII en minúsculas. Estos nombres pueden quedar reservados para el idioma.
+1>C:\Users\Usuario\source\repos\ConsoleApp10\ConsoleApp10\producto.cs(14,20,14,28): warning CS0649: El campo 'producto.cCodigos' nunca se asigna y siempre tendrá el valor predeterminado 0
+1>ConsoleApp10 -> C:\Users\Usuario\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\net8.0\ConsoleApp10.dll
+1>Compilación del proyecto "ConsoleApp10.csproj" terminada.
+========== Compilación: 1 correcto, 0 erróneo, 0 actualizado, 0 omitido ==========
+========== Compilar completado a las 09:53 a. m. y tardó 06.141 segundos ==========

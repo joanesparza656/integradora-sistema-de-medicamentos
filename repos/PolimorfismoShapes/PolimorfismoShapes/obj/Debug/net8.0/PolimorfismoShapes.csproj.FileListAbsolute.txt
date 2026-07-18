@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\PolimorfismoShapes\PolimorfismoShapes\obj\Debug\net8.0\PolimorfismoShapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\PolimorfismoShapes\PolimorfismoShapes\obj\Debug\net8.0\PolimorfismoShapes.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\PolimorfismoShapes\PolimorfismoShapes\obj\Debug\net8.0\PolimorfismoShapes.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\PolimorfismoShapes\PolimorfismoShapes\obj\Debug\net8.0\PolimorfismoShapes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PolimorfismoShapes\PolimorfismoShapes\bin\Debug\net8.0\PolimorfismoShapes.exe
+C:\Users\Usuario\source\repos\PolimorfismoShapes\PolimorfismoShapes\bin\Debug\net8.0\PolimorfismoShapes.deps.json
+C:\Users\Usuario\source\repos\PolimorfismoShapes\PolimorfismoShapes\bin\Debug\net8.0\PolimorfismoShapes.runtimeconfig.json
+C:\Users\Usuario\source\repos\PolimorfismoShapes\PolimorfismoShapes\bin\Debug\net8.0\PolimorfismoShapes.dll
+C:\Users\Usuario\source\repos\PolimorfismoShapes\PolimorfismoShapes\bin\Debug\net8.0\PolimorfismoShapes.pdb
+C:\Users\Usuario\source\repos\PolimorfismoShapes\PolimorfismoShapes\obj\Debug\net8.0\PolimorfismoShapes.dll
+C:\Users\Usuario\source\repos\PolimorfismoShapes\PolimorfismoShapes\obj\Debug\net8.0\refint\PolimorfismoShapes.dll
+C:\Users\Usuario\source\repos\PolimorfismoShapes\PolimorfismoShapes\obj\Debug\net8.0\PolimorfismoShapes.pdb
+C:\Users\Usuario\source\repos\PolimorfismoShapes\PolimorfismoShapes\obj\Debug\net8.0\PolimorfismoShapes.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\PolimorfismoShapes\PolimorfismoShapes\obj\Debug\net8.0\ref\PolimorfismoShapes.dll

@@ -1,0 +1,35 @@
+﻿using System.ComponentModel;
+
+Console.WriteLine("Hello, World!");
+public class Calculadora
+{
+    public int Sumar(int a, int b)
+    {
+        return a + b; 
+    }
+    public int menos(int a, int b)
+    {
+        return a - b;
+    }
+    public int multiplicar(int a, int b)
+    {
+        return a * b;
+    }
+    public int division(int a, int b)
+    {
+        return a / b;
+    }
+
+    
+
+
+}
+public class Program
+{
+    static void Main(string[] args)
+    {
+
+
+    }
+}
+  

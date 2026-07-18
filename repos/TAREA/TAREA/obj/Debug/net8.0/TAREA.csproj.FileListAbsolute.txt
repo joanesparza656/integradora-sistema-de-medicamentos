@@ -1,0 +1,4 @@
+C:\Users\Usuario\source\repos\TAREA\TAREA\obj\Debug\net8.0\TAREA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\TAREA\TAREA\obj\Debug\net8.0\TAREA.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\TAREA\TAREA\obj\Debug\net8.0\TAREA.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\TAREA\TAREA\obj\Debug\net8.0\TAREA.csproj.CoreCompileInputs.cache

@@ -1,0 +1,186 @@
+﻿using System;
+using System.Globalization;
+using System.Windows.Forms;
+
+namespace CalculadoraWinForms
+{
+    public partial class Form1 : Form
+    {
+        private double _current = 0;
+        private string _operator = "";
+        private bool _isNewEntry = true;
+        private double _memory = 0;
+
+        public Form1()
+        {
+            InitializeComponent();
+            // habilitar manejo de teclado
+            this.KeyPreview = true;
+            this.KeyDown += Form1_KeyDown;
+            // usar separador decimal según cultura
+            try { btnDot.Text = CultureInfo.CurrentCulture.NumberFormat.NumberDecimalSeparator; } catch { }
+        }
+
+        private void OnNumberClick(object sender, EventArgs e)
+        {
+            var btn = sender as Button;
+            if (btn == null) return;
+            var dec = CultureInfo.CurrentCulture.NumberFormat.NumberDecimalSeparator;
+            if (_isNewEntry)
+            {
+                var text = btn.Text == dec ? "0" + dec : btn.Text;
+                txtDisplay.Text = text;
+                _isNewEntry = false;
+            }
+            else
+            {
+                if (btn.Text == dec && txtDisplay.Text.Contains(dec)) return;
+                txtDisplay.Text += btn.Text;
+            }
+        }
+
+        private void OnOperatorClick(object sender, EventArgs e)
+        {
+            var btn = sender as Button;
+            if (btn == null) return;
+            if (!_isNewEntry)
+            {
+                Calculate();
+                _isNewEntry = true;
+            }
+            // normalizar operadores internamente a ASCII
+            _operator = btn.Text switch
+            {
+                "×" => "*",
+                "*" => "*",
+                "÷" => "/",
+                "/" => "/",
+                _ => btn.Text
+            };
+            _current = double.TryParse(txtDisplay.Text, NumberStyles.Any, CultureInfo.CurrentCulture, out var v) ? v : 0;
+        }
+
+        private void Calculate()
+        {
+            var second = double.TryParse(txtDisplay.Text, NumberStyles.Any, CultureInfo.CurrentCulture, out var v) ? v : 0;
+            double result = _operator switch
+            {
+                "+" => _current + second,
+                "-" => _current - second,
+                "*" => _current * second,
+                "/" => second == 0 ? double.NaN : _current / second,
+                "^" => Math.Pow(_current, second),
+                _ => second
+            };
+            var outText = double.IsNaN(result) ? "Error" : result.ToString(CultureInfo.CurrentCulture);
+            // no historial en versión simplificada
+            txtDisplay.Text = outText;
+            _current = result;
+        }
+
+        private void AddHistory(string entry)
+        {
+            if (lstHistory != null)
+            {
+                lstHistory.Items.Insert(0, entry);
+            }
+        }
+
+        private void Form1_KeyDown(object? sender, KeyEventArgs e)
+        {
+            var dec = CultureInfo.CurrentCulture.NumberFormat.NumberDecimalSeparator;
+            if (e.KeyCode >= Keys.D0 && e.KeyCode <= Keys.D9)
+            {
+                var ch = ((int)e.KeyCode - (int)Keys.D0).ToString();
+                OnNumberClick(new Button { Text = ch }, EventArgs.Empty);
+                e.Handled = true;
+                return;
+            }
+            if (e.KeyCode >= Keys.NumPad0 && e.KeyCode <= Keys.NumPad9)
+            {
+                var ch = ((int)e.KeyCode - (int)Keys.NumPad0).ToString();
+                OnNumberClick(new Button { Text = ch }, EventArgs.Empty);
+                e.Handled = true;
+                return;
+            }
+            if (e.KeyCode == Keys.OemPeriod || e.KeyCode == Keys.Decimal)
+            {
+                OnNumberClick(new Button { Text = dec }, EventArgs.Empty);
+                e.Handled = true;
+                return;
+            }
+            if (e.KeyCode == Keys.Add || e.KeyCode == Keys.Oemplus)
+                OnOperatorClick(new Button { Text = "+" }, EventArgs.Empty);
+            if (e.KeyCode == Keys.Subtract || e.KeyCode == Keys.OemMinus)
+                OnOperatorClick(new Button { Text = "-" }, EventArgs.Empty);
+            if (e.KeyCode == Keys.Multiply)
+                OnOperatorClick(new Button { Text = "*" }, EventArgs.Empty);
+            if (e.KeyCode == Keys.Divide)
+                OnOperatorClick(new Button { Text = "/" }, EventArgs.Empty);
+            if (e.KeyCode == Keys.Enter)
+            {
+                btnEquals_Click(this, EventArgs.Empty);
+                e.Handled = true;
+            }
+            if (e.KeyCode == Keys.Back)
+            {
+                txtDisplay.Text = "0";
+                _isNewEntry = true;
+            }
+        }
+        private void btnEquals_Click(object sender, EventArgs e)
+        {
+            Calculate();
+            _operator = "";
+            _isNewEntry = true;
+        }
+        private void btnClear_Click(object sender, EventArgs e)
+        {
+            txtDisplay.Text = "0";
+            _current = 0;
+            _operator = "";
+            _isNewEntry = true;
+        }
+
+        private void btnSqrt_Click(object sender, EventArgs e)
+        {
+            var v = double.TryParse(txtDisplay.Text, NumberStyles.Any, CultureInfo.CurrentCulture, out var d) ? d : 0;
+            var res = d >= 0 ? Math.Sqrt(d) : double.NaN;
+            AddHistory($"√{d} = {res}");
+            txtDisplay.Text = double.IsNaN(res) ? "Error" : res.ToString(CultureInfo.CurrentCulture);
+            _isNewEntry = true;
+            _current = res;
+        }
+
+        private void btnPow_Click(object sender, EventArgs e)
+        {
+            // set operator to power and store current
+            _operator = "^";
+            _current = double.TryParse(txtDisplay.Text, NumberStyles.Any, CultureInfo.CurrentCulture, out var v) ? v : 0;
+            _isNewEntry = true;
+        }
+
+        private void btnMPlus_Click(object sender, EventArgs e)
+        {
+            var v = double.TryParse(txtDisplay.Text, NumberStyles.Any, CultureInfo.CurrentCulture, out var d) ? d : 0;
+            _memory += d;
+        }
+
+        private void btnMMinus_Click(object sender, EventArgs e)
+        {
+            var v = double.TryParse(txtDisplay.Text, NumberStyles.Any, CultureInfo.CurrentCulture, out var d) ? d : 0;
+            _memory -= d;
+        }
+
+        private void btnMR_Click(object sender, EventArgs e)
+        {
+            txtDisplay.Text = _memory.ToString(CultureInfo.CurrentCulture);
+            _isNewEntry = true;
+        }
+
+        private void btnMC_Click(object sender, EventArgs e)
+        {
+            _memory = 0;
+        }
+    }
+}

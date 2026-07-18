@@ -1,0 +1,201 @@
+﻿namespace CalculadoraWinForms
+{
+    partial class Form1
+    {
+        private System.ComponentModel.IContainer components = null;
+        private System.Windows.Forms.TextBox txtDisplay;
+        private System.Windows.Forms.Button btnClear;
+        private System.Windows.Forms.Button btnEquals;
+        private System.Windows.Forms.Button[] numButtons;
+        private System.Windows.Forms.Button btnDot;
+        private System.Windows.Forms.Button btnAdd;
+        private System.Windows.Forms.Button btnSub;
+        private System.Windows.Forms.Button btnMul;
+        private System.Windows.Forms.Button btnDiv;
+        private System.Windows.Forms.Button btnSqrt;
+        private System.Windows.Forms.Button btnPow;
+        private System.Windows.Forms.ListBox lstHistory;
+        private System.Windows.Forms.Button btnMPlus;
+        private System.Windows.Forms.Button btnMMinus;
+        private System.Windows.Forms.Button btnMR;
+        private System.Windows.Forms.Button btnMC;
+
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+n        private void InitializeComponent()
+        {
+            this.components = new System.ComponentModel.Container();
+            this.txtDisplay = new System.Windows.Forms.TextBox();
+            this.btnClear = new System.Windows.Forms.Button();
+            this.btnEquals = new System.Windows.Forms.Button();
+            this.btnDot = new System.Windows.Forms.Button();
+            this.btnAdd = new System.Windows.Forms.Button();
+            this.btnSub = new System.Windows.Forms.Button();
+            this.btnMul = new System.Windows.Forms.Button();
+            this.btnDiv = new System.Windows.Forms.Button();
+            this.numButtons = new System.Windows.Forms.Button[10];
+            this.SuspendLayout();
+            // 
+            // txtDisplay
+            // 
+            this.txtDisplay.Font = new System.Drawing.Font("Segoe UI", 18F);
+            this.txtDisplay.Location = new System.Drawing.Point(12, 12);
+            this.txtDisplay.Name = "txtDisplay";
+            this.txtDisplay.ReadOnly = true;
+            this.txtDisplay.Size = new System.Drawing.Size(258, 39);
+            this.txtDisplay.TabIndex = 0;
+            this.txtDisplay.Text = "0";
+            this.txtDisplay.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            // 
+            // btnClear
+            // 
+            this.btnClear.Location = new System.Drawing.Point(12, 57);
+            this.btnClear.Name = "btnClear";
+            this.btnClear.Size = new System.Drawing.Size(60, 40);
+            this.btnClear.TabIndex = 1;
+            this.btnClear.Text = "C";
+            this.btnClear.UseVisualStyleBackColor = true;
+            this.btnClear.Click += new System.EventHandler(this.btnClear_Click);
+            // 
+            // numButtons
+            // 
+            for (int i = 0; i <= 9; i++)
+            {
+                this.numButtons[i] = new System.Windows.Forms.Button();
+                this.numButtons[i].Size = new System.Drawing.Size(60, 40);
+                this.numButtons[i].Text = i.ToString();
+                this.numButtons[i].Click += new System.EventHandler(this.OnNumberClick);
+            }
+            // position numbers
+            int startX = 12, startY = 103, gap = 6;
+            for (int i = 1; i <= 9; i++)
+            {
+                int col = (i - 1) % 3;
+                int row = (i - 1) / 3;
+                this.numButtons[i].Location = new System.Drawing.Point(startX + col * (60 + gap), startY + row * (40 + gap));
+                this.numButtons[i].Name = "btn" + i;
+                this.Controls.Add(this.numButtons[i]);
+            }
+            this.numButtons[0].Location = new System.Drawing.Point(startX + (60 + gap), startY + 3 * (40 + gap));
+            this.numButtons[0].Name = "btn0";
+            this.Controls.Add(this.numButtons[0]);
+
+            // 
+            // btnDot
+            // 
+            this.btnDot.Location = new System.Drawing.Point(startX, startY + 3 * (40 + gap));
+            this.btnDot.Name = "btnDot";
+            this.btnDot.Size = new System.Drawing.Size(60, 40);
+            this.btnDot.Text = ",";
+            this.btnDot.Click += new System.EventHandler(this.OnNumberClick);
+            this.Controls.Add(this.btnDot);
+
+n            // 
+            // btnEquals
+            // 
+            this.btnEquals.Location = new System.Drawing.Point(startX + 2 * (60 + gap), startY + 3 * (40 + gap));
+            this.btnEquals.Name = "btnEquals";
+            this.btnEquals.Size = new System.Drawing.Size(60, 40);
+            this.btnEquals.Text = "=";
+            this.btnEquals.Click += new System.EventHandler(this.btnEquals_Click);
+            this.Controls.Add(this.btnEquals);
+
+n            // 
+            // Operators
+            // 
+            this.btnAdd.Location = new System.Drawing.Point(204, 57);
+            this.btnAdd.Size = new System.Drawing.Size(66, 40);
+            this.btnAdd.Text = "+";
+            this.btnAdd.Click += new System.EventHandler(this.OnOperatorClick);
+            this.Controls.Add(this.btnAdd);
+
+n            this.btnSub.Location = new System.Drawing.Point(204, 103);
+            this.btnSub.Size = new System.Drawing.Size(66, 40);
+            this.btnSub.Text = "-";
+            this.btnSub.Click += new System.EventHandler(this.OnOperatorClick);
+            this.Controls.Add(this.btnSub);
+
+n            this.btnMul.Location = new System.Drawing.Point(204, 149);
+            this.btnMul.Size = new System.Drawing.Size(66, 40);
+            this.btnMul.Text = "×";
+            this.btnMul.Click += new System.EventHandler(this.OnOperatorClick);
+            this.Controls.Add(this.btnMul);
+
+n            this.btnDiv.Location = new System.Drawing.Point(204, 195);
+            this.btnDiv.Size = new System.Drawing.Size(66, 40);
+            this.btnDiv.Text = "÷";
+            this.btnDiv.Click += new System.EventHandler(this.OnOperatorClick);
+            this.Controls.Add(this.btnDiv);
+
+            // sqrt and pow
+            this.btnSqrt = new System.Windows.Forms.Button();
+            this.btnSqrt.Location = new System.Drawing.Point(78, 57);
+            this.btnSqrt.Size = new System.Drawing.Size(60, 40);
+            this.btnSqrt.Text = "√";
+            this.btnSqrt.Click += new System.EventHandler(this.btnSqrt_Click);
+            this.Controls.Add(this.btnSqrt);
+
+            this.btnPow = new System.Windows.Forms.Button();
+            this.btnPow.Location = new System.Drawing.Point(144, 57);
+            this.btnPow.Size = new System.Drawing.Size(54, 40);
+            this.btnPow.Text = "^";
+            this.btnPow.Click += new System.EventHandler(this.btnPow_Click);
+            this.Controls.Add(this.btnPow);
+
+            // memory buttons
+            this.btnMPlus = new System.Windows.Forms.Button();
+            this.btnMPlus.Location = new System.Drawing.Point(12, 195);
+            this.btnMPlus.Size = new System.Drawing.Size(60, 24);
+            this.btnMPlus.Text = "M+";
+            this.btnMPlus.Click += new System.EventHandler(this.btnMPlus_Click);
+            this.Controls.Add(this.btnMPlus);
+
+            this.btnMMinus = new System.Windows.Forms.Button();
+            this.btnMMinus.Location = new System.Drawing.Point(78, 195);
+            this.btnMMinus.Size = new System.Drawing.Size(60, 24);
+            this.btnMMinus.Text = "M-";
+            this.btnMMinus.Click += new System.EventHandler(this.btnMMinus_Click);
+            this.Controls.Add(this.btnMMinus);
+
+            this.btnMR = new System.Windows.Forms.Button();
+            this.btnMR.Location = new System.Drawing.Point(144, 195);
+            this.btnMR.Size = new System.Drawing.Size(60, 24);
+            this.btnMR.Text = "MR";
+            this.btnMR.Click += new System.EventHandler(this.btnMR_Click);
+            this.Controls.Add(this.btnMR);
+
+            this.btnMC = new System.Windows.Forms.Button();
+            this.btnMC.Location = new System.Drawing.Point(210, 195);
+            this.btnMC.Size = new System.Drawing.Size(60, 24);
+            this.btnMC.Text = "MC";
+            this.btnMC.Click += new System.EventHandler(this.btnMC_Click);
+            this.Controls.Add(this.btnMC);
+
+            // history
+            this.lstHistory = new System.Windows.Forms.ListBox();
+            this.lstHistory.Location = new System.Drawing.Point(282, 12);
+            this.lstHistory.Size = new System.Drawing.Size(200, 208);
+            this.Controls.Add(this.lstHistory);
+
+n            // 
+            // Form1
+            // 
+            this.ClientSize = new System.Drawing.Size(282, 253);
+            this.Controls.Add(this.txtDisplay);
+            this.Controls.Add(this.btnClear);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
+            this.MaximizeBox = false;
+            this.Name = "Form1";
+            this.Text = "Calculadora";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+        }
+    }
+}

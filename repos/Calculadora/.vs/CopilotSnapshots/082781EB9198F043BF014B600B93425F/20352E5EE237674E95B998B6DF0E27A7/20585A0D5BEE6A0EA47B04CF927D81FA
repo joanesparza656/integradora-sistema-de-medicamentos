@@ -1,0 +1,131 @@
+﻿namespace Calculadora
+{
+    partial class Form1
+    {
+        /// <summary>
+        ///  Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+        private System.Windows.Forms.TextBox txtDisplay;
+        private System.Windows.Forms.Button btnClear;
+        private System.Windows.Forms.Button btnEquals;
+        private System.Windows.Forms.Button btnAdd;
+        private System.Windows.Forms.Button btnSubtract;
+        private System.Windows.Forms.Button btnMultiply;
+        private System.Windows.Forms.Button btnDivide;
+        private System.Windows.Forms.Button[] btnDigits;
+        private System.Windows.Forms.Button btnDot;
+
+        /// <summary>
+        ///  Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        ///  Required method for Designer support - do not modify
+        ///  the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            components = new System.ComponentModel.Container();
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(260, 330);
+            Text = "Calculadora";
+
+            // Display
+            this.txtDisplay = new System.Windows.Forms.TextBox();
+            this.txtDisplay.Location = new System.Drawing.Point(10, 10);
+            this.txtDisplay.Size = new System.Drawing.Size(240, 40);
+            this.txtDisplay.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.txtDisplay.ReadOnly = true;
+            this.txtDisplay.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.txtDisplay.Text = "0";
+            this.Controls.Add(this.txtDisplay);
+
+            // Buttons
+            this.btnDigits = new System.Windows.Forms.Button[10];
+            for (int i = 0; i <= 9; i++)
+            {
+                this.btnDigits[i] = new System.Windows.Forms.Button();
+                this.btnDigits[i].Size = new System.Drawing.Size(55, 45);
+                this.btnDigits[i].Text = i.ToString();
+                this.btnDigits[i].Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+                this.btnDigits[i].Click += new System.EventHandler(this.Digit_Click);
+                this.Controls.Add(this.btnDigits[i]);
+            }
+
+            // layout digits
+            int startX = 10, startY = 60;
+            int gapX = 65, gapY = 50;
+            // 1-9
+            int digit = 1;
+            for (int row = 0; row < 3; row++)
+            {
+                for (int col = 0; col < 3; col++)
+                {
+                    this.btnDigits[digit].Location = new System.Drawing.Point(startX + col * gapX, startY + (2 - row) * gapY);
+                    digit++;
+                }
+            }
+            // 0
+            this.btnDigits[0].Location = new System.Drawing.Point(startX, startY + 3 * gapY);
+            this.btnDigits[0].Size = new System.Drawing.Size(120, 45);
+
+            // Dot
+            this.btnDot = new System.Windows.Forms.Button();
+            this.btnDot.Location = new System.Drawing.Point(startX + 2 * gapX, startY + 3 * gapY);
+            this.btnDot.Size = new System.Drawing.Size(55, 45);
+            this.btnDot.Text = ".";
+            this.btnDot.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.btnDot.Click += new System.EventHandler(this.Digit_Click);
+            this.Controls.Add(this.btnDot);
+
+            // Operators
+            this.btnAdd = new System.Windows.Forms.Button();
+            this.btnSubtract = new System.Windows.Forms.Button();
+            this.btnMultiply = new System.Windows.Forms.Button();
+            this.btnDivide = new System.Windows.Forms.Button();
+            Button[] ops = { this.btnAdd, this.btnSubtract, this.btnMultiply, this.btnDivide };
+            string[] opsText = { "+", "-", "×", "÷" };
+            for (int i = 0; i < ops.Length; i++)
+            {
+                ops[i].Size = new System.Drawing.Size(55, 45);
+                ops[i].Location = new System.Drawing.Point(startX + 3 * gapX, startY + i * gapY);
+                ops[i].Text = opsText[i];
+                ops[i].Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+                ops[i].Click += new System.EventHandler(this.Operator_Click);
+                this.Controls.Add(ops[i]);
+            }
+
+            // Equals
+            this.btnEquals = new System.Windows.Forms.Button();
+            this.btnEquals.Location = new System.Drawing.Point(startX + 3 * gapX, startY + 3 * gapY);
+            this.btnEquals.Size = new System.Drawing.Size(55, 45);
+            this.btnEquals.Text = "=";
+            this.btnEquals.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.btnEquals.Click += new System.EventHandler(this.Equals_Click);
+            this.Controls.Add(this.btnEquals);
+
+            // Clear
+            this.btnClear = new System.Windows.Forms.Button();
+            this.btnClear.Location = new System.Drawing.Point(startX + gapX, startY + 3 * gapY);
+            this.btnClear.Size = new System.Drawing.Size(55, 45);
+            this.btnClear.Text = "C";
+            this.btnClear.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.btnClear.Click += new System.EventHandler(this.Clear_Click);
+            this.Controls.Add(this.btnClear);
+        }
+
+        #endregion
+    }
+}
